@@ -1,0 +1,45 @@
+_repo: Une-grande-dame-de-la-cour-de-Louis-XV-La-duchesse-d-Aiguillon-1726-1796_67010
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Funck-Brentano, Frantz
+    aliases:
+    - Funck-Brentano, Jacques Chretien Frantz Seraphicus
+    - Funck-Brentano, Jacques Chrétien Frantz Seraphicus
+    birthdate: 1862
+    deathdate: 1947
+    gutenberg_agent_id: '42082'
+    url: http://www.gutenberg.org/2009/agents/42082
+    wikipedia: https://fr.wikipedia.org/wiki/Frantz_Funck-Brentano
+creator:
+  authors:
+  - agent_name: Estrée, Paul d'
+    aliases:
+    - D'Estrée, Paul
+    - Quentin, Henri
+    - D'Estree, Paul
+    birthdate: 1838
+    deathdate: 1922
+    gutenberg_agent_id: '52807'
+    url: http://www.gutenberg.org/2009/agents/52807
+    wikipedia: https://fr.wikipedia.org/wiki/Paul_d%27Estr%C3%A9e
+  - agent_name: Callet, Albert
+    birthdate: 1846
+    deathdate: 1906
+    gutenberg_agent_id: '54076'
+    url: http://www.gutenberg.org/2009/agents/54076
+description: ''
+gutenberg_issued: '2021-12-26'
+identifiers:
+  gutenberg: '67010'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Court and courtiers'
+- !lcsh 'Aiguillon, Louise Félicité de Brehan-Plélo, duchesse, de, 1729-1796'
+- !lcc 'DC'
+- GITenberg
+title: 'Une grande dame de la cour de Louis XV: La duchesse d''Aiguillon (1726-1796)'
+url: http://www.gutenberg.org/ebooks/67010
