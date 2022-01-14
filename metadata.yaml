@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '42082'
     url: http://www.gutenberg.org/2009/agents/42082
     wikipedia: https://fr.wikipedia.org/wiki/Frantz_Funck-Brentano
+covers:
+- cover_type: archival
+  image_path: 67010-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Estrée, Paul d'
@@ -29,6 +32,8 @@ creator:
     gutenberg_agent_id: '54076'
     url: http://www.gutenberg.org/2009/agents/54076
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67010#Une-grande-dame-de-la-cour-de-Louis-XV-La-duchesse-d-Aiguillon-1726-1796
 gutenberg_issued: '2021-12-26'
 identifiers:
   gutenberg: '67010'
